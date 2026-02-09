@@ -124,3 +124,4 @@ plt.tight_layout()
 
 plt.savefig(GRAPH_PERCENT_FILE)
 plt.show()
+
